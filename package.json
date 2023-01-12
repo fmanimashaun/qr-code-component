@@ -1,7 +1,7 @@
 {
-  "name": "nft-preview-card-component",
+  "name": "qr-code-component",
   "version": "1.0.0",
-  "description": "This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "description": "This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
   "private": true,
   "scripts": {
     "watch": "webpack --watch",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git+https://github.com/fmanimashaun/nft-preview-card-component.git"
+    "url": "git+git+https://github.com/fmanimashaun/qr-code-component.git"
   },
   "keywords": [],
   "author": "Engr. Animashaun Fisayo Michael",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fmanimashaun/nft-preview-card-component/issues"
+    "url": "https://github.com/fmanimashaun/qr-code-component/issues"
   },
-  "homepage": "https://github.com/fmanimashaun/nft-preview-card-component#readme",
+  "homepage": "https://github.com/fmanimashaun/qr-code-component#readme",
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/plugin-transform-modules-commonjs": "^7.19.6",
