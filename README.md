@@ -34,10 +34,6 @@ Your users should be able to:
 
 ![Desktop view](screenshots/desktop.png)
 
-#### Desktop hover view
-
-![Desktop view hover](screenshots/desktop-hover.png)
-
 #### Mobile view
 
 ![Mobile view](screenshots/mobile.png)
