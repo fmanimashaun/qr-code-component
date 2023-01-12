@@ -34,18 +34,14 @@ Your users should be able to:
 
 ![Desktop view](screenshots/desktop.png)
 
-#### Desktop hover view
-
-![Desktop view hover](screenshots/desktop-hover.png)
-
 #### Mobile view
 
 ![Mobile view](screenshots/mobile.png)
 
 ### Links
 
-- [Solution URL](https://github.com/fmanimashaun/nft-preview-card-component)
-- [Live Site URL](https://fmanimashaun.github.io/nft-preview-card-component/)
+- [Solution URL](https://github.com/fmanimashaun/qr-code-component)
+- [Live Site URL](https://fmanimashaun.github.io/qr-code-component/)
 
 ## My process
 
