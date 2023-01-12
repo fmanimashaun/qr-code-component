@@ -1,0 +1,9 @@
+/* import fonts */
+
+/* Outfitfont */
+@font-face {
+  font-family: 'Outfit';
+  src: url("../fonts/Outfit/Outfit-VariableFont_wght.ttf") format('TrueType');
+}
+
+$primary-ff: 'Outfit', sans-serif;
